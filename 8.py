@@ -5,3 +5,12 @@
 
 numbers = [10, 25, 50, 100, 200, 300, 450, 600, 700, 800, 900]
 
+for num in numbers:
+    if num % 5 == 0:
+        if num > 150:
+            continue
+        if num > 500:
+            break
+
+
+        print(num)
