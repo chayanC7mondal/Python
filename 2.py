@@ -1,3 +1,5 @@
+#2.	Write a program to find the largest number among three numbers entered by the user. Display the largest number as output.
+
 
 num1 = float(input("Enter the first number: "))
 num2 = float(input("Enter the second number: "))
